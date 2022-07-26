@@ -4,8 +4,7 @@
 
 ## 스터디 규칙
 
-## 주차 별 문제 목록
-### 1주차
+## 회차 별 문제 목록
 <table align="center">
   <tr>
     <th align="center">회차</th>
