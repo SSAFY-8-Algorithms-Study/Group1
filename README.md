@@ -8,7 +8,7 @@
 ### 1주차
 <table align="center">
   <tr>
-    <th align="center">번호</th>
+    <th align="center">회차</th>
     <th align="center">문제 티어</th>
     <th align="center">기간</th>
     <th align="center">상세</th>
