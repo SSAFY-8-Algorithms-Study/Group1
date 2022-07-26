@@ -1,7 +1,7 @@
 # :orange_book: 대전 5반 1조 알고리즘 스터디 :pencil2:
 
 ## 멤버
-<!-- 깃허브 이모티콘 사이트 : https://gist.github.com/rxaviers/7360908 -->
+<!-- 깃허브 이모지 : https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
  #### :space_invader: 최현인(조장) 
  #### 김승희
  #### 백자민
