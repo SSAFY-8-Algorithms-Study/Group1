@@ -1,12 +1,16 @@
 # :orange_book: 대전 5반 1조 알고리즘 스터디 :pencil2:
 
 ## 멤버
+<!-- 깃허브 이모티콘 사이트 : https://gist.github.com/rxaviers/7360908 -->
  #### :space_invader: 최현인(조장) : 25세, 무직, 동네북
  #### 김승희
  #### 백자민
  #### 한재욱
 ## 스터디 규칙
-
+ ### 문제 난이도
+  #### Bronze : 1문제
+  #### Silver : 3문제
+  #### Gold   : 1문제
 ## 회차 별 문제 목록
 <table align="center">
   <tr>
