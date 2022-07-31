@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=afeeee&height=150&section=header&text=GROUP01&fontSize=45&fontColor=4682b4&fontAlign=85&fontAlignY=30)
+
 # :orange_book: 대전 5반 1조 알고리즘 스터디 :pencil2:
 
 ## 멤버
