@@ -1,6 +1,6 @@
-# 1주차 회의록 
+# 2주차 회의록 
 
-:calendar: : 9 PM, 22.07.31(SUN)
+:calendar: : 9 PM, 22.08.07(SUN)
 
 ### :loudspeaker: 공지사항
 - 스터디 멤버 변경 사안
