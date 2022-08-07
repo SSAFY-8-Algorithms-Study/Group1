@@ -5,6 +5,8 @@
 ### :loudspeaker: 공지사항
 - 스터디 멤버 변경 사안
 - 오답 노트
+  - 깃허브에 문제만 올리지말고 풀다가 힘들었던 점들 기록하기
+  - [깃허브 백준 익스텐션](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk)
 - 활동 사진
 - 피드백 관련
 
@@ -13,14 +15,47 @@
 |:-----------:|:-----:|:----:|:----:|:----:|:----:|
 |최현인|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |김승희|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-|백자민||||||
-|한재욱||||||
+|백자민|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|한재욱|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 
 ### :bookmark_tabs: 코드 리뷰
 
+#### 2304 창고 다각형
 
-#### 코드 리뷰 결과
+- 코드 리뷰 : 백자민
+  - 핵심 기법 : 분할정복
+  - 풀이 방법 : 
+    - 김승희 : 가장 높은 높이가 여러개면 어떻게 처리합니까?
+      - 어느 쪽을 골라도 상관없이 처리할 수 있다.
 
-  
+#### 2630 색종이 만들기
+
+- 코드 리뷰 : 김승희
+  - 핵심 기법 : 재귀
+  - 풀이 방법 : https://seunghee114-blog.tistory.com/505
+  - 피드백 
+    - 백자민 : 코드가 거의 비슷합니다.
+    - 최현인 : 반복문으로 짰는데 재귀로 짤 수 있었네요
+    - 한재욱 : 코드가 거의 비슷합니다.
+
+#### 1931 회의실 배정
+
+- 코드 리뷰 : 한재욱
+  - 핵심 기법 : 그리디, 정렬
+  - 풀이 방법 : 풀이방법: 2차원 배열로 시작시간과 끝나는 시간을 저장하고, 끝나는 시간 작은순으로 정렬한 뒤, 이전 것에 끝나는 시간이 이번 것에 시작 시간보다 작거나 같으면 카운팅.
+  - 피드백 
+    - 김승희 : 끝나는 시간이 제일 빠른 애를 선택하는 이유?..
+    - 백자민 : 제 방법과 비슷하게 푸셨네요
+    - 최현인 : 우선순위 큐 로직과 거의 비슷하네요. 우선순위 큐도 공부해보시면 좋을 듯 합니다,
+    
+
+#### 2206 벽 부수고 이동하기
+- 코드 리뷰 : 최현인
+  - 핵심 기법 : BFS
+  - 풀이 방법 : 시작점에서 끝점까지 갈 수 있는 경로를 끝까지 구해서 기록, 역으로 끝점에서 시작점까지 갈 수 있는 경로를 기록, 1인 곳을 전부 찾아서 주변에 있는 경로들의 최솟값을 더함.
+  - 피드백
+    - 김승희 : 풀이 접근 방법은 똑같은데 BFS 호출 시점이 달라서 안됐네요
+    - 백자민 : 두 방향에서 탐색하는 건 생각 못했네요
+
 ### :raising_hand_man: 건의 사항 :raising_hand:
 
