@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=afeeee&height=150&section=header&text=GROUP01&fontSize=45&fontColor=4682b4&fontAlign=85&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=afeeee&height=150&section=header&text=Group1&fontSize=45&fontColor=4682b4&fontAlign=85&fontAlignY=30)
 
-# :orange_book: 대전 5반 1조 알고리즘 스터디 :pencil2:
+# :pencil2: 알고리즘 스터디 1조 :pencil2:
 
 ## 멤버
 <!-- 깃허브 이모지 : https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
@@ -55,7 +55,7 @@
       <a href="https://www.acmicpc.net/problem/2573"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">7월 4주차</td>
-    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/01_7_4week">목록보기</a></td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Group1/blob/main/2022-08/7-4/README.md">회의록</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
@@ -67,7 +67,7 @@
       <a href="https://www.acmicpc.net/problem/2206"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">8월 1주차</td>
-    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/02_8_1week">목록보기</a></td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Group1/blob/main/2022-08/8-1/README.md">회의록</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
@@ -79,7 +79,7 @@
       <a href="https://www.acmicpc.net/problem/3425"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">8월 2주차</td>
-    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/03_8_2week">목록보기</a></td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Group1/blob/main/2022-08/8-2/README.md">회의록</a></td>
   </tr>
  <tr>
     <td align="center">04</td>
@@ -91,6 +91,6 @@
       <a href="https://www.acmicpc.net/problem/2447"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">8월 3주차</td>
-    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/04_8_3week">목록보기</a></td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Group1/blob/main/2022-08/8-3/README.md">회의록</a></td>
   </tr>
 </table>
