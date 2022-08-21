@@ -9,7 +9,7 @@
 |Problem No.|17608|2960|2290|11286|2447|
 |:-----------:|:-----:|:----:|:----:|:----:|:----:|
 |최현인|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|김승희||||||
+|김승희|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |백자민||||||
 |한재욱|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 
