@@ -11,7 +11,7 @@
 |최현인|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |김승희||||||
 |백자민||||||
-|한재욱||||||
+|한재욱|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 
 ### :bookmark_tabs: 코드 리뷰
 
