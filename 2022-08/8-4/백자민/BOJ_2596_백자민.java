@@ -6,28 +6,6 @@ import java.io.InputStreamReader;
 
 public class BOJ_2596_백자민 {
 	
-	static String mean(int i) {
-		switch(i) {
-		case 0:
-			return "A";
-		case 1:
-			return "B";
-		case 2:
-			return "C";
-		case 3:
-			return "D";
-		case 4:
-			return "E";
-		case 5:
-			return "F";
-		case 6:
-			return "G";
-		case 7:
-			return "H";
-		}
-		return " ";
-	}
-	
 	//다른 문자 개수가 몇개인지 세기 
 	static int check(String s1, String s2) {
 		int cnt = 0;
@@ -42,6 +20,7 @@ public class BOJ_2596_백자민 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 		String[] abc = {"000000","001111","010011","011100","100110","101001","110101","111010"};
+		String[] mean = {"A","B","C","D","E","F","G","H"};
 		
 		int N = Integer.parseInt(br.readLine());
 		String message = br.readLine();
@@ -58,7 +37,7 @@ public class BOJ_2596_백자민 {
 				int iscorrect = check(abc[j], str);
 				
 				if(iscorrect == 0) {//맞는 문자를 찾았을 경우
-					sb.append(mean(j));
+					sb.append(mean[j]);
 					onecnt=0;
 					twocnt=0;
 					break;
@@ -73,7 +52,7 @@ public class BOJ_2596_백자민 {
 			}
 			
 			if(onecnt == 1)
-				sb.append(mean(idx));
+				sb.append(mean[idx]);
 			
 			if(twocnt==8) {
 				System.out.println(cnt);
