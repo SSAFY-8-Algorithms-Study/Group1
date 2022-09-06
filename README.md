@@ -103,6 +103,18 @@
       <a href="https://www.acmicpc.net/problem/16235"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">8월 4주차</td>
-    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/05_8_4week">목록보기</a></td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Group1/blob/main/2022-08/8-4/README.md">회의록</a></td>
+  </tr>
+   <tr>
+    <td align="center">06</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/10162"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/9372"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/10025"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2922"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2917"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">9월 1주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Group1/blob/main/2022-09/9-1/README.md">회의록</a></td>
   </tr>
 </table>
