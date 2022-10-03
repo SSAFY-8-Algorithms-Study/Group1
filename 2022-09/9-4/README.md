@@ -8,9 +8,9 @@
 |Problem No.|2579|17086|2805|2660|18428|
 |:-----------:|:-----:|:----:|:----:|:----:|:----:|
 |최현인|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|김승희|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|
-|백자민|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-|한재욱|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|김승희|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|백자민|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|
+|한재욱|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 
 ### :bookmark_tabs: 코드 리뷰
 
