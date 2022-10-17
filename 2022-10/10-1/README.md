@@ -1,6 +1,6 @@
 ## 10주차 회의록 
 
-:calendar: : 9 PM, 22.10.04(TUE)
+:calendar: : 9 PM, 22.10.11(TUE)
 
 ### :loudspeaker: 공지사항
 
