@@ -1,5 +1,10 @@
 package boj;
 
+// 21610 마법사 상어와 비바라기
+// 구름의 이동과  물 복사 검사의 구현 방법이 다름을 주의
+// 이동 방향 * 거리 를 맵의 크기로 나눈 나머지를 이용하여 구름이 이동한 위치를 구해주었음
+// 구름의 이동 부분만 잘 신경써서 구현했다면 어려운 부분은 없었음
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

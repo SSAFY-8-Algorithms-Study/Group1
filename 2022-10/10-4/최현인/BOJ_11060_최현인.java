@@ -4,6 +4,9 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+// 11060 점프점프
+// 대표적인 DP문제, 점프 할 수 있는 칸 만큼 DP를 채워나가면서 더 작은 방법이 있다면 갱신해주는 방식으로 구현
+
 public class Main {
 	static int N, target;
 	static int[] arr;

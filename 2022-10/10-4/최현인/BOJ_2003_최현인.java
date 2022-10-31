@@ -1,5 +1,9 @@
 package boj;
 
+// 2003 수들의 합 2
+// 구간합에 슬라이딩 윈도우를 응용하여 풀었음
+// 구간의 합이 목적 숫자보다 작으면 오른쪽 인덱스를 증가, 크다면 왼쪽 인덱스를 증가
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
